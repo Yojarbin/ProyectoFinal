@@ -1,12 +1,12 @@
 @font-face {
     font-family: 'bobatime';
-    src: url(/Front/Bobatime-Regular.ttf);
+    src: url(../Front/Bobatime-Regular.ttf);
 }
 body{
     background-color: rgb(170, 103, 233);
 }
 header{
-    background-image: url(/Imagenes/rayo.jpg);
+    background-image: url(../Imagenes/rayo.jpg);
     background-size: cover;
     align-items: center;
     display: flex;
@@ -80,7 +80,7 @@ main{
     box-shadow: 2px 2px 7px;
 }
 .main1{
-    background-image: url(/Imagenes/textura.jpg);
+    background-image: url(../Imagenes/textura.jpg);
      background-repeat: round;
 }
 div div img{
